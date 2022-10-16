@@ -34,7 +34,7 @@ body {
 
 .part-img img {
   width: 100%;
-  height: 25vh;
+  height: 32vh;
   object-fit: cover;
   border-radius: 10px;
   -webkit-border-radius: 10px;
